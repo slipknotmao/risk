@@ -6,4 +6,4 @@ Git push Test.
 Git merage
 Creating an new branch is quick and simple.
 test
-statsh
+statsh new
