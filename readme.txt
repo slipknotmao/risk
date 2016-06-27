@@ -4,6 +4,6 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Git push Test.
 Git merage
-Creating a new branch is quick and simple.
+Creating an new branch is quick and simple.
 test
 statsh
